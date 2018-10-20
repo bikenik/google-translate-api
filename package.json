@@ -31,17 +31,17 @@
   },
   "homepage": "https://github.com/matheuss/google-translate-api#readme",
   "dependencies": {
-    "configstore": "^2.0.0",
-    "google-translate-token": "latest",
-    "got": "^6.3.0",
-    "safe-eval": "^0.3.0"
+    "configstore": "^4.0.0",
+    "google-translate-token": "github:bikenik/google-translate-token",
+    "got": "^9.2.2",
+    "safe-eval": "^0.4.1"
   },
   "devDependencies": {
-    "ava": "^0.15.2",
-    "codecov": "^1.0.1",
-    "coveralls": "^2.11.11",
-    "nyc": "^7.0.0",
-    "xo": "^0.16.0"
+    "ava": "^0.25.0",
+    "codecov": "^3.1.0",
+    "coveralls": "^3.0.2",
+    "nyc": "^13.1.0",
+    "xo": "^0.23.0"
   },
   "xo": {
     "space": 4
